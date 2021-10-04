@@ -1,0 +1,18 @@
+#menu-h{
+    list-style-type: none;
+    padding: 0;
+}
+
+#menu-h li{
+    display: inline;
+}
+
+#menu-h li a{
+    display: inline;
+    padding: 3px;
+    font-size: 32px;
+}
+
+#logo{
+    text-align: center;
+}
